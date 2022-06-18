@@ -4,19 +4,21 @@
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
-An application that provides the user the ability to generate a webpage which displays a team's basic info. 
+An application that provides the user the ability to add new notes, and to delete notes. 
 
 ## Table of Contents
 * [Installation](#installation)
 * [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
-* [Video](#video)
-* [Screenshots](#screenshots)
 * [Usage](#usage)
-* [Testing](#testing)
+* [Links](#links)
+* [Screenshots](#screenshots)
+
+
 
 ## Installation 
 
+Clone the repository from GitHub and download Node. The user then needs to install Express.js.
  
 ## User Story
 
@@ -44,20 +46,18 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+## Usage
+To  create new notes in the right-hand column while being able to delete them from the left-hand column.
 
-## Video
-<!-- <p>To View the Video: <a href="https://drive.google.com/file/d/1DEl8AU6WrhWLji7emCzVDYb9_4J2cv4U/view?usp=sharing"> Click Here</a></p> -->
+
+## Links
+<p>To View the Live Application: <a href="https://nameless-mountain-77177.herokuapp.com/"> Click Here</a></p>
 
 
 ## Screenshots
-<!-- <br><img src="./Assets/screen1.png" alt="screenshot of starting page" width="350"/> -->
+<br><img src="./public/assets/images/Screen2.png" alt="screenshot of starting page" width="350"/>
+<br><img src="./public/assets/images/Screen1.png" alt="screenshot of note taking page" width="350"/>
 
 
 
 
-## Usage
-<!-- Generating Professional Team Overview Generator page. -->
-
-## Testing
-<!-- Jest is available for testing. 
-User mus run `npm test` to run Jest for tests on constructors.  -->
