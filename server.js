@@ -13,6 +13,7 @@ app.use(express.urlencoded({
     extended: true
 }));
 app.use(express.json());
+//request to public folder
 app.use(express.static('public'));
 
 
