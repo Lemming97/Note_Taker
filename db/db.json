@@ -1,14 +1,19 @@
 {
   "notes": [
     {
-      "title": "Welcome to Note Taker!",
-      "text": "This application allows you to add and delete notes. You can add notes by clicking the pencil icon at the top and then click the save icon once you have entered what you need.",
+      "title": "Let's Take Some Notes!",
+      "text": "This application allows you to add and delete notes. To add notes start by clicking the pencil icon at the top. Once you've entered your note in the body click the save icon located in the top right-hand corner.",
       "id": "0"
     },
     {
-      "title": "sdfsdf",
-      "text": "dsfdsf",
+      "title": "First Note",
+      "text": "My New Note",
       "id": "1"
+    },
+    {
+      "title": "New note",
+      "text": "Testing the New note",
+      "id": "2"
     }
   ]
 }
